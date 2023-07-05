@@ -57,6 +57,6 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
-
+<h3 align="left">🔥   My Stats :  </h3>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shabaresh2003&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 ###
