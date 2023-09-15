@@ -58,6 +58,6 @@
 ###
 
 <h3 align="left">🔥   My Stats : </h3>
-![](https://github-readme-stats.vercel.app/api?username=shabaresh2003&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=shabaresh2003&theme=gotham&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shabaresh2003&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+[![](https://github-readme-stats.vercel.app/api?username=shabaresh2003&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)<br/>]
+[![](https://github-readme-streak-stats.herokuapp.com/?user=shabaresh2003&theme=gotham&hide_border=false)<br/>]
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=shabaresh2003&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)]
