@@ -63,4 +63,4 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shabaresh2003&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-![](https://visitcount.itsvg.in/api?id=shabaresh2003&icon=1&color=3)](https://visitcount.itsvg.in)
+![](https://visitcount.itsvg.in/api?id=shabaresh2003&icon=1&color=3)
