@@ -58,4 +58,4 @@
 ###
 
 <h3 align="left">🔥   My Stats : </h3>
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=shabaresh2003&show_icons=true&theme=radical)
+![](https://github-readme-stats.vercel.app/api?username=shabaresh2003&show_icons=true&theme=radical)
